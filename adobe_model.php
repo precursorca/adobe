@@ -169,6 +169,7 @@ class Adobe_model extends \Model
                 '23.0' => 'CC 2023',
                 '24.0' => 'CC 2024',
                 '25.0' => 'CC 2025',
+                '26.0' => 'CC 2026',
             ],
             'Animate' => [
                 '15.0' => 'CC 2015',
@@ -358,6 +359,7 @@ class Adobe_model extends \Model
                 '6.0' => 'CC 2023',
                 '7.0' => 'CC 2024',
                 '8.0' => 'CC 2025',
+                '9.0' => 'CC 2026',
             ],
             'Lightroom Classic' => [
                 '6.0' => 'CC 2015',
@@ -382,6 +384,7 @@ class Adobe_model extends \Model
                 '23.0' => 'CC 2023',
                 '24.0' => 'CC 2024',
                 '25.0' => 'CC 2025',
+                '26.0' => 'CC 2026',
             ],
             'Photoshop' => [
                 '16.0' => 'CC 2015',
@@ -409,6 +412,7 @@ class Adobe_model extends \Model
                 '23.0' => 'CC 2023',
                 '24.0' => 'CC 2024',
                 '25.0' => 'CC 2025',
+                '26.0' => 'CC 2026',
             ],
             'Rush' => [
                 '1.0' => 'CC 2019',
